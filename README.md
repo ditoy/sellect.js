@@ -1,7 +1,5 @@
 # sellect.js
 [![Build Status][build-image]][build-url]
-[![Code GPA][gpa-image]][gpa-url]
-[![Test Coverage][coverage-image]][coverage-url]
 [![Dependency Status][depstat-image]][depstat-url]
 [![Bower Version][bower-image]][bower-url]
 [![NPM version][npm-image]][npm-url]
@@ -171,3 +169,5 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [npm-url]: https://www.npmjs.org/package/sellect.js
 [npm-image]: https://badge.fury.io/js/sellect.js.png
 
+
+test test
